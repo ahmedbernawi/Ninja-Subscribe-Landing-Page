@@ -21,7 +21,7 @@ Here's a screenshot of the landing page:
 
 And a screen-recorded video showcasing the interactive features:
 
-[Ninja Subscribe Landing Page Video](./Ninja%20Subscribe%20Landing%20Page.mp4)
+![Ninja Subscribe Landing Page Video](./Ninja%20Subscribe%20Landing%20Page.mp4)
 
 
 ## Live URL: 
