@@ -19,7 +19,7 @@ Here's a screenshot of the landing page:
 ![Ninja Subscribe Landing Page Screenshot](./ninja-character.png)
 
 ## Live URL: 
-[ahmedbernawi](https://github.com/ahmedbernawi)
+[ahmedbernawi](https://ahmedbernawi.github.io/Ninja-Subscribe-Landing-Page/)
 
 ## Source Code
 
