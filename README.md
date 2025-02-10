@@ -13,16 +13,10 @@ The key design elements include:
 - **Responsive Design**: The landing page is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
 - **Smooth Transitions**: The page features smooth transitions and animations, such as the subscription button hover effect, to enhance the overall user experience.
 
-## Screenshot and Video
-
+## Screenshot
 Here's a screenshot of the landing page:
 
 ![Ninja Subscribe Landing Page Screenshot](./ninja-character.png)
-
-And a screen-recorded video showcasing the interactive features:
-
-![Ninja Subscribe Landing Page Video](./Ninja%20Subscribe%20Landing%20Page.mp4)
-
 
 ## Live URL: 
 [ahmedbernawi](https://github.com/ahmedbernawi)
@@ -80,5 +74,6 @@ The source code for the landing page, including the `flipper` container animatio
 }
 ```
 
-##Author [ahmedbernawi](https://github.com/ahmedbernawi)
+#Author [ahmedbernawi](https://github.com/ahmedbernawi)
+
 The code is written by me, a beginner in web development. I'm still learning and experimenting.
